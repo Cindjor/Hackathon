@@ -1,0 +1,31 @@
+#container {
+    width: 1000px;
+    margin: auto 0;
+    padding-left: 25px;
+  }
+h1{
+	padding-left: 25px;
+}
+
+#head {
+	height: 175px;
+	padding-left: 300px;
+	}
+
+#table{
+	width: 700px;
+	height: 450px;
+	padding-left: 25px;
+	}
+
+#footer{
+	display: block;
+	width: 700px;
+	padding-left: 25px;
+
+}
+
+#table{
+  overflow: scroll;
+  height: 700px;
+}

@@ -1,4 +1,7 @@
-
+#collapse3{
+  height: 460px;
+  width: auto;
+}
 
 #container {
     width: 1000px;
@@ -26,4 +29,9 @@
  margin-top: 50px;
  padding-left: 15px;
 
+}
+
+#filter{
+  overflow: scroll;
+  height: 20px;
 }
